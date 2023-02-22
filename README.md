@@ -9,6 +9,8 @@
 <h3><b>And you can also reach me at LinkedIn</b></h3>
 <a href ="https://www.linkedin.com/in/beratpaban" target="_blank" rel="nofollow"><img alt="Berat Paban" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
+
+
 <h3>🛠 Technologies & Tools 🛠</h3>
 <img alt="Flutter" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"alt="flutter" width="64" height="64"/>
 <img alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" width="64" height="64"/>
@@ -21,7 +23,5 @@
 <img alt="Visual Studio" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain.svg" width="64" height="64"/>
 <img alt="Firebase" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/firebase/firebase-plain.svg" width="64" height="64"/>
 <img alt="MS SQL" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="64" height="64"/>
-
-[![Berat's GitHub stats](https://github-readme-stats.vercel.app/api?username=beratpaban)](https://github.com/anuraghazra/github-readme-stats)
 
 
